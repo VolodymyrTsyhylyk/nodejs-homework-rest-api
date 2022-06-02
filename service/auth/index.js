@@ -1,2 +1,2 @@
 const AuthService = require("./authService");
-module.exports = new AuthService();
+module.exports = AuthService;
